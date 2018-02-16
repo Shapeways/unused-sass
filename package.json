@@ -1,0 +1,19 @@
+{
+  "name": "unused-sass",
+  "version": "1.0.0",
+  "description": "Identify unused SASS selectors in order to reduce the size of the CSS package",
+  "main": "src/unused-sass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shapeways/unused-sass.git"
+  },
+  "author": "T.J. Schiffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shapeways/unused-sass/issues"
+  },
+  "homepage": "https://github.com/Shapeways/unused-sass#readme"
+}
